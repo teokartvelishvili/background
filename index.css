@@ -1,0 +1,16 @@
+div {
+    width: 1000px;
+    height: 1000px;
+    background: url(./tropical-palm-tree-beach-ocean-sunlight-island-hd-wallpaper-preview.jpg);
+    margin: 40px;
+}
+.firstphoto {
+    background-size: cover;
+    background-position: center;
+    
+}
+.secondphoto {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
